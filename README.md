@@ -1,2 +1,2 @@
 # Python_AmazonCrawler
-Contributor : Hansel
+Contributor: Hansel Hu
